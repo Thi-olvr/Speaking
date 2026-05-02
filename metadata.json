@@ -1,0 +1,7 @@
+{
+  "name": "Shadow Speak: English Practice",
+  "description": "An application to help users practice their English pronunciation and fluency through the shadowing technique, with AI-powered feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
